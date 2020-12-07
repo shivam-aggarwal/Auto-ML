@@ -1,0 +1,1 @@
+{"dataSet": "ecoli-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.8015873015873016, "testing_score": 0.7619047619047619, "best_score": 0.8015873015873016, "TimeTaken": 0.004022359848022461, "njobs": 6}

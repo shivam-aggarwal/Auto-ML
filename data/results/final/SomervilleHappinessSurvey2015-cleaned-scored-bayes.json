@@ -1,0 +1,1 @@
+{"dataSet": "SomervilleHappinessSurvey2015-cleaned-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.68, "testing_score": 0.5348837209302325, "best_score": 0.68, "TimeTaken": 0.001997709274291992, "njobs": 3}

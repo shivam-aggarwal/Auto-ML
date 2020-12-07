@@ -1,0 +1,1 @@
+{"dataSet": "column_3C-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='euclidean', n_neighbors=11)", "training_score": 0.8922413793103449, "testing_score": 0.7948717948717948, "best_score": 0.8575393154486587, "TimeTaken": 0.12765741348266602, "njobs": 3}

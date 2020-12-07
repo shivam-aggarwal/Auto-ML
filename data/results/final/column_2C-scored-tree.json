@@ -1,0 +1,1 @@
+{"dataSet": "column_2C-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(criterion='entropy', max_depth=10, min_samples_leaf=5)", "training_score": 0.9353448275862069, "testing_score": 0.782051282051282, "best_score": 0.8098057354301573, "TimeTaken": 1.4100122451782227, "njobs": 3}

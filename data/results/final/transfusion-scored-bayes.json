@@ -1,0 +1,1 @@
+{"dataSet": "transfusion-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.7629233511586453, "testing_score": 0.7540106951871658, "best_score": 0.7629233511586453, "TimeTaken": 0.0031752586364746094, "njobs": -1}

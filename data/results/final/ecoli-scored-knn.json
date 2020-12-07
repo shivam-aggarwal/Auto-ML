@@ -1,0 +1,1 @@
+{"dataSet": "ecoli-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='manhattan', n_neighbors=3, weights='distance')", "training_score": 1.0, "testing_score": 0.8333333333333334, "best_score": 0.8493333333333334, "TimeTaken": 0.14464855194091797, "njobs": 6}

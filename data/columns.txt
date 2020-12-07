@@ -1,0 +1,1 @@
+["attr_class", "class_entropy", "class_int", "mean_0", "mean_1", "mean_2", "mean_3", "median_0", "median_1", "median_2", "median_3", "skewnes_0", "skewnes_1", "skewnes_2", "skewnes_3", "std_0", "std_1", "std_2", "std_3", "Algorithm__DecisionTree", "Algorithm__KNN", "Algorithm__Naive Bayes", "Algorithm__SVC", "score"]

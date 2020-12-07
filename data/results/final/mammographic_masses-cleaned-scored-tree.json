@@ -1,0 +1,1 @@
+{"dataSet": "mammographic_masses-cleaned-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=10, min_samples_leaf=12)", "training_score": 0.8482142857142857, "testing_score": 0.8373702422145328, "best_score": 0.8378109452736318, "TimeTaken": 1.4592406749725342, "njobs": 3}

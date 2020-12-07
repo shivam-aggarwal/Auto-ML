@@ -1,0 +1,1 @@
+{"dataSet": "data_banknote_authentication-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.8464528668610302, "testing_score": 0.8279883381924198, "best_score": 0.8464528668610302, "TimeTaken": 0.0028171539306640625, "njobs": -1}

@@ -1,0 +1,1 @@
+{"dataSet": "SomervilleHappinessSurvey2015-cleaned-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=5, min_samples_leaf=2)", "training_score": 0.81, "testing_score": 0.46511627906976744, "best_score": 0.6699999999999999, "TimeTaken": 0.1698598861694336, "njobs": 3}

@@ -1,0 +1,1 @@
+{"dataSet": "abalone-cleaned-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='manhattan', n_neighbors=19)", "training_score": 0.3386931235032501, "testing_score": 0.2711323763955343, "best_score": 0.2576074230183819, "TimeTaken": 1.2257239818572998, "njobs": 3}

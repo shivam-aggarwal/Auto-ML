@@ -1,0 +1,1 @@
+{"dataSet": "mammographic_masses-cleaned-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='manhattan', n_neighbors=7)", "training_score": 0.8482142857142857, "testing_score": 0.8269896193771626, "best_score": 0.8065118850193477, "TimeTaken": 0.16556143760681152, "njobs": 3}

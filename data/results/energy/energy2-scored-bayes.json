@@ -1,0 +1,1 @@
+{"dataSet": "energy2-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.6666666666666666, "testing_score": 0.6041666666666666, "best_score": 0.6666666666666666, "TimeTaken": 0.0049893856048583984, "njobs": 6}

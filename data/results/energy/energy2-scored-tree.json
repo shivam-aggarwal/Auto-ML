@@ -1,0 +1,1 @@
+{"dataSet": "energy2-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=2, min_samples_leaf=2)", "training_score": 0.7065972222222222, "testing_score": 0.65625, "best_score": 0.6805847076461768, "TimeTaken": 5.5711023807525635, "njobs": 6}

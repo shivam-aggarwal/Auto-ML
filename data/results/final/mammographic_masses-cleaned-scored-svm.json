@@ -1,0 +1,1 @@
+{"dataSet": "mammographic_masses-cleaned-scored", "Algorithm": "SVC", "best_estimator": "SVC(C=1000, gamma=0.001)", "training_score": 0.8377976190476191, "testing_score": 0.8339100346020761, "best_score": 0.8303482587064677, "TimeTaken": 280.24535059928894, "njobs": 3}

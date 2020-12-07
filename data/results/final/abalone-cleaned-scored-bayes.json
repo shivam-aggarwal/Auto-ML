@@ -1,0 +1,1 @@
+{"dataSet": "abalone-cleaned-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.10195005131713993, "testing_score": 0.09968102073365231, "best_score": 0.10195005131713993, "TimeTaken": 0.35260939598083496, "njobs": 3}

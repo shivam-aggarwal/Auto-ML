@@ -1,0 +1,1 @@
+{"dataSet": "abalone-cleaned-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=5, min_samples_leaf=10)", "training_score": 0.31269243927471774, "testing_score": 0.2822966507177033, "best_score": 0.2586471139210865, "TimeTaken": 3.165534734725952, "njobs": 3}

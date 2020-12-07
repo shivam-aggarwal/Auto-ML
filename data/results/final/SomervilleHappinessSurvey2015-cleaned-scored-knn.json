@@ -1,0 +1,1 @@
+{"dataSet": "SomervilleHappinessSurvey2015-cleaned-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='euclidean', n_neighbors=19)", "training_score": 0.62, "testing_score": 0.5348837209302325, "best_score": 0.6000000000000001, "TimeTaken": 0.1306169033050537, "njobs": 3}

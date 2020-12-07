@@ -1,0 +1,1 @@
+{"dataSet": "energy2-scored", "Algorithm": "KNN", "best_estimator": "KNeighborsClassifier(metric='manhattan', n_neighbors=19)", "training_score": 0.7291666666666666, "testing_score": 0.6197916666666666, "best_score": 0.6719490254872563, "TimeTaken": 0.3181474208831787, "njobs": 6}

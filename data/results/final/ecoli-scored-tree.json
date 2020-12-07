@@ -1,0 +1,1 @@
+{"dataSet": "ecoli-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=12, min_samples_leaf=2)", "training_score": 0.9365079365079365, "testing_score": 0.7857142857142857, "best_score": 0.8215686274509804, "TimeTaken": 2.281522274017334, "njobs": 6}

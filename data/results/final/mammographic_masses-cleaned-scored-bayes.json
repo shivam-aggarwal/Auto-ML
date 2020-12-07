@@ -1,0 +1,1 @@
+{"dataSet": "mammographic_masses-cleaned-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.8020833333333334, "testing_score": 0.8269896193771626, "best_score": 0.8020833333333334, "TimeTaken": 0.00299835205078125, "njobs": 3}

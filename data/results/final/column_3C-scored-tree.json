@@ -1,0 +1,1 @@
+{"dataSet": "column_3C-scored", "Algorithm": "DecisionTree", "best_estimator": "DecisionTreeClassifier(max_depth=12, min_samples_leaf=12)", "training_score": 0.8706896551724138, "testing_score": 0.8846153846153846, "best_score": 0.797132284921369, "TimeTaken": 0.17679429054260254, "njobs": 3}

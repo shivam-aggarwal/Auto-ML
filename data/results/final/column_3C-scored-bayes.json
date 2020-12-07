@@ -1,0 +1,1 @@
+{"dataSet": "column_3C-scored", "Algorithm": "Naive Bayes", "best_estimator": "GaussianNB()", "training_score": 0.8491379310344828, "testing_score": 0.8076923076923077, "best_score": 0.8491379310344828, "TimeTaken": 0.002959012985229492, "njobs": 3}

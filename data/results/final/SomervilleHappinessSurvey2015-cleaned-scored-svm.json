@@ -1,0 +1,1 @@
+{"dataSet": "SomervilleHappinessSurvey2015-cleaned-scored", "Algorithm": "SVC", "best_estimator": "SVC(C=10, gamma=0.001)", "training_score": 0.66, "testing_score": 0.4883720930232558, "best_score": 0.64, "TimeTaken": 1.4841389656066895, "njobs": 3}

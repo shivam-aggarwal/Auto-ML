@@ -1,0 +1,1 @@
+{"dataSet": "column_2C-scored", "Algorithm": "SVC", "best_estimator": "SVC(C=1, gamma=0.001)", "training_score": 0.9008620689655172, "testing_score": 0.8333333333333334, "best_score": 0.8664199814986123, "TimeTaken": 70.18651914596558, "njobs": 3}
